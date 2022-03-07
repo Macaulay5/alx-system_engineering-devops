@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff *
+grep "root" /etc/passwd
